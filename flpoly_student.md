@@ -8,10 +8,12 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Calculus.1
 
+
 | Prefix | Number  |              Name              | Credits |
 |:------:|:-------:|:------------------------------:|:-------:|
 | **COP**| **2073**| *Introduction to Data Science* | 3       |
 | **MAC**| **2311**| *Calculus 1*                   | 3       |   
+
 
 **Hobbies:**
 
@@ -23,6 +25,9 @@ I am _passionate about_:
 
 - Academic Innovation
 
+
 ***
 
-> Last modified: 2021/07/07
+> Last modified: 2021/20/07
+
+
